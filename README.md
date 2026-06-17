@@ -1,6 +1,6 @@
 # BigQuery Release Notes Tracker 📊
 
-A sleek, modern, and dark-themed web application built with **Python Flask** and **plain vanilla HTML, CSS, and JavaScript**. This app fetches the live Google Cloud BigQuery RSS/Atom XML feed, parses the updates into distinct cards, and allows you to search, filter, and share updates directly on X (Twitter).
+Built a modern, dark-themed web application using Python Flask, HTML, CSS, and JavaScript that tracks Google Cloud BigQuery release notes in real time. The system fetches and parses live RSS/Atom XML feeds, organizes updates into categorized timelines, supports instant keyword search and filtering, enables direct sharing to X (Twitter), and includes offline cache fallback for improved reliability. The project was developed by applying concepts learned through Google's AI Agents Intensive Course
 
 ## 🚀 Features
 
